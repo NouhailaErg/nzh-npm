@@ -1,0 +1,10 @@
+# First NPM Package
+
+A simple Node.js module created for our first Masters tests to retrieve weather information for a given city using the OpenWeatherMap API.
+
+You can change the API Key used in the package as it was taken from a free subscription on the website mentionned OpenWeatheMap.
+
+## Installation
+
+```bash
+npm install nzh-npm
